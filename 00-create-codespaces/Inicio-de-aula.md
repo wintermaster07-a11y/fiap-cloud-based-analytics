@@ -7,6 +7,8 @@ Durante o setup você criou uma conta AWS Academy e um Codespaces. Caso não ten
 
 Execute os passos abaixo no inicio de cada aula:
 
+### Caso o professor não tenha pedido para atualizar o código do repositório, pule para o passo 3.
+
 1. Acesse o seu github no repositório que fez fork do repositório da disciplina **fiap-cloud-based-analytics**.
 2. Clique em `Sync Fork` no meio da tela para sincronizar o repositório com o repositório original. Caso tenha algo para sincronizar, clique em `Update branch` para sincronizar o repositório como na imagem abaixo:
    
@@ -20,6 +22,7 @@ Execute os passos abaixo no inicio de cada aula:
 
    ![](img/sync3.png)
 
+### Atualizando credenciais do Codespaces
 
 3. Acesse o seu codespaces, para isso acesse o link [Github Codespaces](https://github.com/codespaces)
 4. Clique no nome do Codespaces que você criou para as aulas, ele esta derivado do repositório fiap-cloud-based-analytics. 
